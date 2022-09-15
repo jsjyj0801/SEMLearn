@@ -1,0 +1,2 @@
+# SEMLearn
+SEMLearn is a software toolbox for structural equation model structure learning. It provides the open-source library for use in MATLAB that implements the state-of-the-art algorithms of structural equation model structure learning. SEM (Structural equation model) provides a new methodology to enrich the structure learning of linear arbitrarily distributed datasets. The tool is written in MATLAB, and easy to install and implement.
